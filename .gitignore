@@ -1,0 +1,25 @@
+
+# ==== Files
+*.iml
+*.class
+.classpath
+gradlew
+gradlew.bat
+.project
+*.txt
+*.war
+*.sublime-project
+*.sublime-workspace
+My_DB_Project_Description.txt
+
+# ==== Folders
+classes/
+.idea/
+.gradle/
+.git/
+.settings/
+out/
+target/
+build/
+gradle/
+!/Part_2_OOP/TrakerToIDEA/OtherFiles/
